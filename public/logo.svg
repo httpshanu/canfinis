@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 80">
+  <g transform="translate(8, 6)">
+    <!-- Swoosh -->
+    <path d="M 52,50 C 45,62 25,62 18,52 C 12,44 14,34 23,28 C 26,26 30,28 32,32" fill="none" stroke="#003d5b" stroke-width="2.8" stroke-linecap="round" />
+    
+    <!-- Central Person Body & Arms -->
+    <!-- Head -->
+    <circle cx="35" cy="22" r="5" fill="#003d5b" />
+    <!-- Arms -->
+    <path d="M 18,26 C 24,34 30,35 35,35 C 40,35 46,34 52,26" fill="none" stroke="#003d5b" stroke-width="3" stroke-linecap="round" />
+    <!-- Spine/Body -->
+    <path d="M 35,35 L 35,54" fill="none" stroke="#003d5b" stroke-width="3" stroke-linecap="round" />
+    
+    <!-- Leaves -->
+    <!-- Left Leaf -->
+    <path d="M 21,32 C 16,33 13,37 15,41 C 18,40 21,36 21,32 Z" fill="#84a95c" />
+    <!-- Right Leaf -->
+    <path d="M 49,32 C 54,33 57,37 55,41 C 52,40 49,36 49,32 Z" fill="#84a95c" />
+  </g>
+  
+  <!-- Text -->
+  <text x="80" y="44" font-family="'Inter', 'Helvetica Neue', sans-serif" font-weight="700" font-size="32" fill="#111827" letter-spacing="-0.5">
+    CanF<tspan fill="#e63946">i</tspan>n<tspan fill="#e63946">i</tspan>s
+  </text>
+  <text x="82" y="62" font-family="'Inter', 'Helvetica Neue', sans-serif" font-weight="600" font-size="11.5" fill="#111827" letter-spacing="4.8">
+    THERAPEUTICS
+  </text>
+</svg>
